@@ -22,3 +22,7 @@ ipynb_checkpoints
 *.njsproj
 *.sln
 *.sw?
+/pdfs
+custom_templates.tplx
+texput.log
+/.ipynb_checkpoints
